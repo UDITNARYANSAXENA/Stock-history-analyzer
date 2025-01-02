@@ -1,0 +1,2 @@
+Collecting yfinance
+Installing collected packages: yfinance
